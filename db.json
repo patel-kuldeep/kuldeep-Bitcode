@@ -4,7 +4,7 @@
       "name": "abhishek",
       "email": "abhishek@gmail.com",
       "mobile": "6266543251",
-      "address": "Indore mp",
+      "address": "Indore",
       "id": "db50"
     },
     {
@@ -20,6 +20,13 @@
       "email": "admin@gmail.com",
       "mobile": "6266543251",
       "address": "indore"
+    },
+    {
+      "id": "a2e7",
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "mobile": "982682356456",
+      "address": "Bhopal"
     }
   ]
 }

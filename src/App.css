@@ -1,0 +1,48 @@
+.contact-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-info {
+  border: 2px solid grey;
+  width: 50%;
+  height: auto;
+  background-color: #000;
+  color: #fff;
+}
+.add-btn {
+  width: 100%;
+}
+.add-icon {
+  margin-left: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+.contact-icon{
+  font-size: 50px;
+}
+.search-field{
+  width: 50%;
+}
+.contact-list{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  color:#000;
+  border-radius:10px;
+}
+
+
+
+/* Modal Css  */
+
+/* Responsive CSS */
+
+@media (max-width: 576px) {
+    .contact-info{
+      width: 100%;
+    }
+}
